@@ -50,6 +50,5 @@ Anything is subject to change, including trucks, menus, or days of the week.
 ## TODO:
 
 - Twitter links
-- Menu links
-- Textual menus
+- Text menus
 

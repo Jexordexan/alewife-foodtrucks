@@ -1,0 +1,19 @@
+{
+  "name": "alewife-foodtrucks",
+  "version": "1.0.0",
+  "description": "Unofficial food truck schedule for Vecna / Cambridgepark food trucks in Cambridge, MA",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jexordexan/alewife-foodtrucks.git"
+  },
+  "keywords": [
+    "vecna",
+    "foodtrucks"
+  ],
+  "author": "Jordan Simonds <simonds.jordan@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Jexordexan/alewife-foodtrucks/issues"
+  },
+  "homepage": "https://github.com/Jexordexan/alewife-foodtrucks#readme"
+}
