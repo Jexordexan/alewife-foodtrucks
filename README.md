@@ -11,11 +11,13 @@
 
 ## Tuesdays:
 
-| Truck               | Menu                                    | Location          |
-| ------------------- | --------------------------------------- | ----------------- |
-| Indulge India       | [MENU](menus/indulge-india.jpg)         | Vecna parking lot |
-| Chicken & Rice Guys | [MENU](menus/chicken-and-rice-guys.jpg) | Vecna parking lot |
-| Gogi on the Block   | [MENU](menus/gogi-on-the-block.jpg)     | Cambridgepark Dr. |
+| Truck               | Menu                                    | Location              |
+| ------------------- | --------------------------------------- | --------------------- |
+| ~~Indulge India~~   | ~~[MENU](menus/indulge-india.jpg)~~     | ~~Vecna parking lot~~ |
+| Chicken & Rice Guys | [MENU](menus/chicken-and-rice-guys.jpg) | Vecna parking lot     |
+| Gogi on the Block   | [MENU](menus/gogi-on-the-block.jpg)     | Cambridgepark Dr.     |
+
+    Notice: Indulge India has not showed up for a few weeks (as of July 6, 2018)
 
 ## Wednesdays:
 
