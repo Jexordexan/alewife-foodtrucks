@@ -48,7 +48,11 @@ This is not the official food truck schedule!
 
 Anything is subject to change, including trucks, menus, or days of the week.
 
+### Submit issues
+If you see womthing wrong, or you know of a change to the schedule, [file an issue on GitHub](https://github.com/Jexordexan/alewife-foodtrucks/issues). PR's are welcome!
+
 ---
+
 ## TODO:
 
 - Twitter links
