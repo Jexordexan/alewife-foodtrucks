@@ -28,12 +28,12 @@
 
 ## Thursdays:
 
-| Truck                    | Menu                                       | Location          |
-| ------------------------ | ------------------------------------------ | ----------------- |
-| Saté                     | [MENU](menus/sate.jpg)                     | Vecna parking lot |
-| The Pull-up              | [MENU](menus/the-pull-up.jpg)              | Vecna parking lot |
-| North East of the Border | [MENU](menus/noertheast-of-the-border.jpg) | Cambridgepark Dr. |
-| Moyzilla                 | [MENU](menus/moyzillajpg)                  | Cambridgepark Dr. |
+| Truck                    | Menu                                      | Location          |
+| ------------------------ | ----------------------------------------- | ----------------- |
+| Saté                     | [MENU](menus/sate.jpg)                    | Vecna parking lot |
+| The Pull-up              | [MENU](menus/the-pull-up.jpg)             | Vecna parking lot |
+| North East of the Border | [MENU](menus/northeast-of-the-border.jpg) | Cambridgepark Dr. |
+| Moyzilla                 | [MENU](menus/moyzilla.jpg)                | Cambridgepark Dr. |
 
 ## Fridays:
 
