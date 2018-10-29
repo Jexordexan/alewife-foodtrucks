@@ -16,6 +16,7 @@
 | ~~Indulge India~~   | ~~[MENU](menus/indulge-india.jpg)~~     | ~~Vecna parking lot~~ |
 | Chicken & Rice Guys | [MENU](menus/chicken-and-rice-guys.jpg) | Vecna parking lot     |
 | Gogi on the Block   | [MENU](menus/gogi-on-the-block.jpg)     | Cambridgepark Dr.     |
+| Bon Me              |                                         | Cambridgepark Dr.     |
 
     Notice: Indulge India has not showed up for a few weeks (as of July 6, 2018)
 
@@ -24,6 +25,7 @@
 | Truck               | Menu                                  | Location          |
 | ------------------- | ------------------------------------- | ----------------- |
 | Chicken on the Road | [MENU](menus/chicken-on-the-road.jpg) | Cambridgepark Dr. |
+| SA PA               |                                       | Cambridgepark Dr. |
 | Kebabish            | [MENU](menus/kebabish.jpg)            | Vecna parking lot |
 
 ## Thursdays:
@@ -37,9 +39,10 @@
 
 ## Fridays:
 
-| Truck       | Menu                          | Location          |
-| ----------- | ----------------------------- | ----------------- |
-| Compliments | [MENU](menus/compliments.jpg) | Vecna parking lot |
+| Truck           | Menu                          | Location          |
+| --------------- | ----------------------------- | ----------------- |
+| Compliments     | [MENU](menus/compliments.jpg) | Cambridgepark Dr. |
+| Rhythm n' Wraps |                               | Vecna parking lot |
 
 ---
 
