@@ -1,45 +1,42 @@
 # Alewife Foodtrucks
-*Updated Summer 2018*
+*Updated Autumn 2018*
 
 ## Mondays:
 
-| Truck               | Menu                            | Location          |
-| ------------------- | ------------------------------- | ----------------- |
-| Roadies Diner       | [MENU](menus/roadies-diner.jpg) | Cambridgepark Dr. |
-| Teri-yummy          | [MENU](menus/teri-yummy.jpg)    | Vecna parking lot |
-| Zaaki Mediterranean | [MENU](menus/zaaki.jpg)         | Vecna parking lot |
+| Truck (and Twitter)                                               | Menu                            | Location          |
+| ----------------------------------------------------------------- | ------------------------------- | ----------------- |
+| Roadies Diner ([@roadiestruck](https://twitter.com/roadiestruck)) | [MENU](menus/roadies-diner.jpg) | Cambridgepark Dr. |
+| Teri-yummy ([@Teriyummy](https://twitter.com/teriyummy))          | [MENU](menus/teri-yummy.jpg)    | Vecna parking lot |
+| Zaaki Mediterranean                                               | [MENU](menus/zaaki.jpg)         | Vecna parking lot |
 
 ## Tuesdays:
 
-| Truck               | Menu                                    | Location              |
-| ------------------- | --------------------------------------- | --------------------- |
-| ~~Indulge India~~   | ~~[MENU](menus/indulge-india.jpg)~~     | ~~Vecna parking lot~~ |
-| Chicken & Rice Guys | [MENU](menus/chicken-and-rice-guys.jpg) | Vecna parking lot     |
-| Gogi on the Block   | [MENU](menus/gogi-on-the-block.jpg)     | Cambridgepark Dr.     |
-
-    Notice: Indulge India has not showed up for a few weeks (as of July 6, 2018)
+| Truck (and Twitter)                                                       | Menu                                    | Location              |
+| ------------------------------------------------------------------------- | --------------------------------------- | --------------------- |
+| Chicken & Rice Guys ([@cnrguys](https://twitter.com/cnrguys))             | [MENU](menus/chicken-and-rice-guys.jpg) | Vecna parking lot     |
+| Gogi on the Block ([@GogiOnTheBlock](https://twitter.com/GogiOnTheBlock)) | [MENU](menus/gogi-on-the-block.jpg)     | Cambridgepark Dr.     |
 
 ## Wednesdays:
 
-| Truck               | Menu                                  | Location          |
-| ------------------- | ------------------------------------- | ----------------- |
-| Chicken on the Road | [MENU](menus/chicken-on-the-road.jpg) | Cambridgepark Dr. |
-| Kebabish            | [MENU](menus/kebabish.jpg)            | Vecna parking lot |
+| Truck (and Twitter)                                                         | Menu                                  | Location          |
+| --------------------------------------------------------------------------- | ------------------------------------- | ----------------- |
+| Chicken on the Road ([@ChickenOnTheRd](https://twitter.com/chickenontherd)) | [MENU](menus/chicken-on-the-road.jpg) | Cambridgepark Dr. |
+| Kebabish                                                                    | [MENU](menus/kebabish.jpg)            | Vecna parking lot |
 
 ## Thursdays:
 
-| Truck                    | Menu                                      | Location          |
-| ------------------------ | ----------------------------------------- | ----------------- |
-| Saté                     | [MENU](menus/sate.jpg)                    | Vecna parking lot |
-| The Pull-up              | [MENU](menus/the-pull-up.jpg)             | Vecna parking lot |
-| North East of the Border | [MENU](menus/northeast-of-the-border.jpg) | Cambridgepark Dr. |
-| Moyzilla                 | [MENU](menus/moyzilla.jpg)                | Cambridgepark Dr. |
+| Truck (and Twitter)                                                      | Menu                                      | Location          |
+| ------------------------------------------------------------------------ | ----------------------------------------- | ----------------- |
+| Saté ([@momogoose](https://twitter.com/momogoose))                       | [MENU](menus/sate.jpg)                    | Vecna parking lot |
+| The Pull-up ([@pull_llc](https://twitter.com/pull_llc))                  | [MENU](menus/the-pull-up.jpg)             | Vecna parking lot |
+| North East of the Border ([@NEOTBtruck](https://twitter.com/neotbtruck)) | [MENU](menus/northeast-of-the-border.jpg) | Cambridgepark Dr. |
+| Moyzilla ([@MoyzillaTruck](https://twitter.com/MoyzillaTruck))           | [MENU](menus/moyzilla.jpg)                | Cambridgepark Dr. |
 
 ## Fridays:
 
-| Truck       | Menu                          | Location          |
-| ----------- | ----------------------------- | ----------------- |
-| Compliments | [MENU](menus/compliments.jpg) | Vecna parking lot |
+| Truck (and Twitter)                                                   | Menu                          | Location          |
+| --------------------------------------------------------------------- | ----------------------------- | ----------------- |
+| Compliments ([@complimentsfood](https://twitter.com/complimentsfood)) | [MENU](menus/compliments.jpg) | Vecna parking lot |
 
 ---
 
@@ -49,12 +46,11 @@ This is not the official food truck schedule!
 Anything is subject to change, including trucks, menus, or days of the week.
 
 ### Submit issues
-If you see womthing wrong, or you know of a change to the schedule, [file an issue on GitHub](https://github.com/Jexordexan/alewife-foodtrucks/issues). PR's are welcome!
+If you see something wrong, or you know of a change to the schedule, [file an issue on GitHub](https://github.com/Jexordexan/alewife-foodtrucks/issues). PR's are welcome!
 
 ---
 
 ## TODO:
 
-- Twitter links
 - Text menus
 
